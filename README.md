@@ -13,5 +13,6 @@ This code will provide additional debug function to output attention matrices fr
 
 The usage is described the next 2 files.
 
-[0_training.ipynb] ()
-[1_translation.ipynb] ()
+[0_training.ipynb](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/0_training.ipynb),
+
+[1_translation.ipynb](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/1_translation.ipynb)
