@@ -5,9 +5,14 @@ This code will provide additional debug function to output attention matrices fr
 
 **You cannot use this for any other purpose (training, rnn model, and so on)**
 
+## Original code outputs
+```
 
+```
 
-
+## Modified code outputs
+```
+```
 
 ## Usage
 
