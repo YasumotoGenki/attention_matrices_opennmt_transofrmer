@@ -5,10 +5,6 @@ This code will provide additional debug function to output attention matrices fr
 
 **You cannot use this for any other purpose (training, rnn model, and so on)**
 
-I used [OpenNMT tool-kit (v 1.1.1)](https://github.com/OpenNMT/OpenNMT-py/tree/1.1.1)
-
-Python 3.6.9 (in Google Colab emvironment)
-
 ## Original code outputs
 ```
                     彼          は         水泳          が         得意          で          は          な         かっ          た          。 
@@ -50,7 +46,12 @@ layer: 1 || head: 3
 ```
 
 ## Requirements
-[Same as OpenNMT requirements]()
+
+I used [OpenNMT tool-kit (v 1.1.1)](https://github.com/OpenNMT/OpenNMT-py/tree/1.1.1)
+
+Python 3.6.9 (in Google Colab emvironment)
+
+Same as OpenNMT requirements (below file)
 
 [requirements.opt.txt](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/requirements.opt.txt)
 
@@ -61,6 +62,12 @@ The usage is described the next 2 files.
 [0_training.ipynb](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/0_training.ipynb)
 
 [1_translation.ipynb](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/1_translation.ipynb)
+
+## Author
+
+Genki Yasumoto @ Nara Institute of Science and Technology (NAIST)
+
+Contact: yasumoto.genki.ye1{at}is.naist.jp
 
 ## LICENSE
 
