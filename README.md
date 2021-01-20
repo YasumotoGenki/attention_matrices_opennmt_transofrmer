@@ -79,7 +79,7 @@ Same as OpenNMT requirements (below file)
 
 ## Usage
 
-The usage is described the next 2 files.
+The usage is described in the next 2 files.
 
 [0_training.ipynb](https://github.com/YasumotoGenki/attention_matrices_opennmt_transofrmer/blob/main/0_training.ipynb)
 
